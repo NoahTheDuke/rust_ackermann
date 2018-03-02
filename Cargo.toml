@@ -1,0 +1,8 @@
+[package]
+name = "ackermann"
+version = "0.1.0"
+authors = ["Noah <nbtheduke@gmail.com>"]
+
+[dependencies]
+lazy_static = "1.0.0"
+time = "0.1"
